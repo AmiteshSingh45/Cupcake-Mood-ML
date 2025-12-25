@@ -1,0 +1,1001 @@
+name,flavor_type,sweetness_level,richness,fruity,nutty,price,mood
+Pineapple Bliss,sweet,2,3,0,1,219,excited
+Chocolate Overload,fruity,3,2,1,0,99,happy
+Coconut Truffle,light,3,3,0,1,199,calm
+Coconut Truffle,light,1,2,1,0,219,calm
+Coconut Truffle,indian,3,2,1,0,199,celebration
+Red Velvet Cupcake,nutty,1,2,0,1,189,celebration
+Cranberry Blondie,nutty,3,1,1,1,189,celebration
+Nutella Brownie,nutty,3,1,0,1,189,celebration
+Rasmalai Truffle,sweet,1,1,1,0,149,excited
+Pineapple Bliss,chocolate,1,3,1,1,199,comfort
+Coffee Mocha Brownie,chocolate,3,3,1,1,179,comfort
+Nutella Brownie,sweet,2,1,1,0,219,excited
+Vanilla Sunshine,chocolate,2,3,0,1,229,comfort
+Vanilla Sunshine,chocolate,1,3,0,1,189,comfort
+Vanilla Sunshine,sweet,1,3,0,0,149,excited
+Coffee Mocha Brownie,fruity,2,1,1,1,229,happy
+Nutella Brownie,fruity,3,1,1,1,179,happy
+Vanilla Sunshine,sweet,1,1,0,0,179,excited
+Chocolate Overload,sweet,2,2,1,0,149,excited
+Coffee Mocha Brownie,indian,2,1,0,0,149,celebration
+Oreo Crunch Cupcake,indian,3,1,0,0,219,celebration
+Rasmalai Truffle,light,3,2,0,0,189,calm
+Pineapple Bliss,nutty,1,3,1,1,219,celebration
+Hazelnut Dream,indian,1,3,0,0,229,celebration
+Red Velvet Cupcake,light,1,3,0,0,149,calm
+Hazelnut Dream,nutty,2,3,0,1,219,celebration
+Cranberry Blondie,fruity,3,2,1,0,219,happy
+Rasmalai Truffle,light,3,3,1,1,99,calm
+Nutella Brownie,sweet,2,1,0,0,249,excited
+Almond Caramel Tart,sweet,1,2,0,0,99,excited
+Salted Caramel Bite,fruity,1,2,1,0,219,happy
+Almond Caramel Tart,light,2,1,0,0,219,calm
+Rasmalai Truffle,nutty,2,1,0,1,179,celebration
+Salted Caramel Bite,sweet,3,3,0,0,219,excited
+Mango Delight,fruity,1,3,1,0,179,happy
+Strawberry Swirl,nutty,1,3,0,1,249,celebration
+Mango Delight,nutty,3,3,0,1,229,celebration
+Rasmalai Truffle,sweet,1,3,1,0,199,excited
+Oreo Crunch Cupcake,indian,3,1,1,0,249,celebration
+Cranberry Blondie,indian,3,2,0,1,219,celebration
+Nutella Brownie,chocolate,3,1,0,0,179,comfort
+Mango Delight,nutty,1,2,0,1,149,celebration
+Oreo Crunch Cupcake,light,3,3,0,1,219,calm
+Vanilla Sunshine,indian,1,1,1,0,199,celebration
+Rasmalai Truffle,indian,2,3,1,0,219,celebration
+Mango Delight,chocolate,3,3,0,1,179,comfort
+Hazelnut Dream,nutty,2,1,0,1,229,celebration
+Nutella Brownie,chocolate,2,3,0,0,199,comfort
+Chocolate Overload,fruity,3,3,1,0,199,happy
+Cranberry Blondie,chocolate,2,3,0,0,249,comfort
+Pineapple Bliss,chocolate,3,2,0,0,219,comfort
+Vanilla Sunshine,sweet,3,3,0,0,199,excited
+Red Velvet Cupcake,nutty,1,1,0,1,179,celebration
+Salted Caramel Bite,chocolate,3,2,1,0,199,comfort
+Pineapple Bliss,sweet,3,1,0,1,219,excited
+Oreo Crunch Cupcake,nutty,3,3,0,1,99,celebration
+Red Velvet Cupcake,indian,3,3,0,1,229,celebration
+Strawberry Swirl,sweet,3,1,0,0,99,excited
+Coconut Truffle,indian,3,2,0,0,149,celebration
+Strawberry Swirl,indian,2,1,0,0,219,celebration
+Mango Delight,light,2,3,0,0,229,calm
+Salted Caramel Bite,indian,1,3,1,0,179,celebration
+Chocolate Overload,nutty,1,2,0,1,189,celebration
+Coconut Truffle,nutty,3,2,1,1,179,celebration
+Strawberry Swirl,fruity,1,1,1,0,249,happy
+Cranberry Blondie,indian,2,3,1,0,249,celebration
+Mango Delight,sweet,1,2,0,0,229,excited
+Oreo Crunch Cupcake,light,1,2,0,0,219,calm
+Coconut Truffle,fruity,3,3,1,1,99,happy
+Coffee Mocha Brownie,sweet,1,2,0,0,189,excited
+Salted Caramel Bite,fruity,3,1,1,0,179,happy
+Pineapple Bliss,fruity,1,2,1,0,229,happy
+Nutella Brownie,chocolate,2,1,1,0,229,comfort
+Strawberry Swirl,light,3,3,0,0,249,calm
+Nutella Brownie,sweet,3,3,0,0,189,excited
+Rasmalai Truffle,fruity,1,2,1,0,189,happy
+Nutella Brownie,nutty,3,2,0,1,199,celebration
+Nutella Brownie,nutty,3,1,0,1,149,celebration
+Coconut Truffle,nutty,2,1,0,1,249,celebration
+Cranberry Blondie,indian,3,1,1,0,99,celebration
+Strawberry Swirl,sweet,3,2,0,0,189,excited
+Oreo Crunch Cupcake,nutty,1,1,0,1,189,celebration
+Salted Caramel Bite,light,3,3,1,0,229,calm
+Coffee Mocha Brownie,sweet,1,2,0,0,249,excited
+Red Velvet Cupcake,nutty,1,2,0,1,249,celebration
+Mango Delight,sweet,2,2,0,0,149,excited
+Blueberry Truffle,sweet,1,3,0,1,229,excited
+Hazelnut Dream,chocolate,1,2,0,0,219,comfort
+Almond Caramel Tart,indian,2,2,1,1,149,celebration
+Nutella Brownie,fruity,1,2,1,0,189,happy
+Hazelnut Dream,indian,2,1,0,0,199,celebration
+Hazelnut Dream,sweet,1,2,0,0,249,excited
+Salted Caramel Bite,fruity,2,1,1,0,189,happy
+Almond Caramel Tart,fruity,2,1,1,1,179,happy
+Cranberry Blondie,light,3,1,1,0,249,calm
+Hazelnut Dream,nutty,1,2,0,1,219,celebration
+Coconut Truffle,chocolate,3,2,0,0,149,comfort
+Chocolate Overload,chocolate,2,3,1,0,219,comfort
+Salted Caramel Bite,chocolate,3,1,0,0,99,comfort
+Rasmalai Truffle,sweet,3,2,0,0,229,excited
+Nutella Brownie,fruity,2,2,1,0,179,happy
+Cranberry Blondie,fruity,1,3,1,1,229,happy
+Salted Caramel Bite,indian,2,3,0,0,199,celebration
+Almond Caramel Tart,light,1,3,0,0,179,calm
+Hazelnut Dream,light,3,3,0,0,99,calm
+Blueberry Truffle,sweet,2,3,1,1,229,excited
+Chocolate Overload,sweet,1,2,0,0,99,excited
+Salted Caramel Bite,fruity,3,1,1,0,229,happy
+Pineapple Bliss,light,3,3,0,0,229,calm
+Cranberry Blondie,chocolate,2,1,0,0,189,comfort
+Coffee Mocha Brownie,nutty,2,3,0,1,229,celebration
+Salted Caramel Bite,chocolate,3,2,0,0,149,comfort
+Hazelnut Dream,fruity,1,1,1,1,179,happy
+Salted Caramel Bite,fruity,1,3,1,0,199,happy
+Vanilla Sunshine,light,3,2,1,0,99,calm
+Nutella Brownie,sweet,1,3,0,0,219,excited
+Rasmalai Truffle,nutty,2,1,0,1,249,celebration
+Strawberry Swirl,nutty,2,1,0,1,199,celebration
+Mango Delight,indian,3,3,0,0,149,celebration
+Cranberry Blondie,chocolate,2,2,1,1,99,comfort
+Coffee Mocha Brownie,fruity,1,3,1,0,229,happy
+Almond Caramel Tart,fruity,3,2,1,0,229,happy
+Hazelnut Dream,indian,2,3,1,1,189,celebration
+Mango Delight,nutty,1,3,0,1,219,celebration
+Vanilla Sunshine,nutty,3,2,1,1,149,celebration
+Blueberry Truffle,indian,1,1,0,0,189,celebration
+Chocolate Overload,nutty,3,1,0,1,179,celebration
+Salted Caramel Bite,sweet,2,2,0,0,219,excited
+Coffee Mocha Brownie,fruity,2,1,1,0,189,happy
+Salted Caramel Bite,light,3,3,1,0,179,calm
+Chocolate Overload,nutty,3,2,0,1,149,celebration
+Coconut Truffle,sweet,1,3,0,1,149,excited
+Strawberry Swirl,nutty,1,1,1,1,199,celebration
+Vanilla Sunshine,chocolate,3,2,0,0,199,comfort
+Chocolate Overload,light,2,2,0,0,199,calm
+Oreo Crunch Cupcake,sweet,3,3,0,0,249,excited
+Strawberry Swirl,fruity,2,2,1,1,219,happy
+Coffee Mocha Brownie,sweet,3,1,0,1,199,excited
+Strawberry Swirl,nutty,3,3,0,1,99,celebration
+Strawberry Swirl,fruity,1,2,1,0,219,happy
+Blueberry Truffle,chocolate,1,1,0,0,219,comfort
+Chocolate Overload,indian,2,1,0,0,99,celebration
+Coconut Truffle,chocolate,1,3,0,1,199,comfort
+Vanilla Sunshine,fruity,1,1,1,1,219,happy
+Mango Delight,sweet,1,2,0,0,99,excited
+Blueberry Truffle,fruity,3,1,1,0,99,happy
+Strawberry Swirl,light,2,1,0,0,149,calm
+Almond Caramel Tart,fruity,2,3,1,0,189,happy
+Strawberry Swirl,sweet,3,3,1,0,179,excited
+Coffee Mocha Brownie,light,3,3,1,0,229,calm
+Cranberry Blondie,sweet,1,2,0,0,179,excited
+Rasmalai Truffle,indian,2,3,1,0,189,celebration
+Hazelnut Dream,light,2,3,1,1,219,calm
+Coffee Mocha Brownie,nutty,1,2,0,1,219,celebration
+Blueberry Truffle,indian,2,1,0,1,199,celebration
+Oreo Crunch Cupcake,sweet,3,1,0,0,179,excited
+Blueberry Truffle,sweet,2,2,1,1,99,excited
+Strawberry Swirl,nutty,1,2,1,1,249,celebration
+Coffee Mocha Brownie,sweet,3,2,1,0,179,excited
+Chocolate Overload,nutty,1,1,1,1,189,celebration
+Rasmalai Truffle,light,3,3,1,0,189,calm
+Salted Caramel Bite,sweet,3,3,0,1,249,excited
+Hazelnut Dream,indian,1,3,1,0,189,celebration
+Salted Caramel Bite,sweet,1,3,0,0,149,excited
+Rasmalai Truffle,sweet,2,3,0,0,249,excited
+Chocolate Overload,chocolate,1,3,0,0,99,comfort
+Vanilla Sunshine,chocolate,1,3,0,0,249,comfort
+Rasmalai Truffle,indian,1,2,1,0,179,celebration
+Chocolate Overload,nutty,2,2,0,1,199,celebration
+Coffee Mocha Brownie,sweet,1,2,0,1,229,excited
+Red Velvet Cupcake,chocolate,3,2,1,0,149,comfort
+Blueberry Truffle,sweet,1,3,0,1,189,excited
+Rasmalai Truffle,fruity,3,2,1,0,199,happy
+Hazelnut Dream,light,3,1,0,0,149,calm
+Nutella Brownie,light,3,2,1,0,199,calm
+Pineapple Bliss,sweet,3,2,0,0,189,excited
+Rasmalai Truffle,sweet,2,3,1,0,179,excited
+Cranberry Blondie,nutty,1,2,0,1,99,celebration
+Strawberry Swirl,sweet,2,2,1,0,189,excited
+Mango Delight,fruity,3,3,1,0,179,happy
+Strawberry Swirl,fruity,3,2,1,1,149,happy
+Red Velvet Cupcake,fruity,2,2,1,0,219,happy
+Coconut Truffle,indian,1,3,1,1,249,celebration
+Cranberry Blondie,light,1,2,0,0,219,calm
+Hazelnut Dream,nutty,3,1,0,1,149,celebration
+Coffee Mocha Brownie,indian,3,3,1,0,229,celebration
+Red Velvet Cupcake,indian,1,2,0,0,219,celebration
+Pineapple Bliss,indian,2,2,1,1,249,celebration
+Red Velvet Cupcake,indian,2,2,0,0,179,celebration
+Blueberry Truffle,indian,3,2,1,0,179,celebration
+Coffee Mocha Brownie,nutty,2,1,0,1,229,celebration
+Vanilla Sunshine,chocolate,3,2,0,0,249,comfort
+Blueberry Truffle,sweet,3,2,0,0,229,excited
+Pineapple Bliss,chocolate,2,3,0,0,249,comfort
+Coconut Truffle,light,1,1,0,0,249,calm
+Coffee Mocha Brownie,fruity,1,3,1,0,229,happy
+Hazelnut Dream,nutty,3,2,0,1,149,celebration
+Coconut Truffle,chocolate,2,3,0,0,229,comfort
+Coffee Mocha Brownie,fruity,1,2,1,1,189,happy
+Almond Caramel Tart,nutty,3,1,0,1,179,celebration
+Chocolate Overload,chocolate,2,3,1,0,219,comfort
+Salted Caramel Bite,chocolate,2,2,0,1,149,comfort
+Almond Caramel Tart,fruity,1,2,1,0,189,happy
+Salted Caramel Bite,light,2,1,0,1,249,calm
+Blueberry Truffle,light,1,2,1,0,189,calm
+Vanilla Sunshine,indian,3,1,0,0,249,celebration
+Oreo Crunch Cupcake,indian,3,1,0,0,219,celebration
+Almond Caramel Tart,nutty,1,2,1,1,249,celebration
+Coconut Truffle,light,2,2,1,0,179,calm
+Oreo Crunch Cupcake,chocolate,1,1,0,0,199,comfort
+Vanilla Sunshine,fruity,2,3,1,0,199,happy
+Coffee Mocha Brownie,light,2,2,0,0,199,calm
+Nutella Brownie,fruity,3,1,1,0,179,happy
+Chocolate Overload,nutty,3,3,0,1,249,celebration
+Chocolate Overload,nutty,3,3,0,1,99,celebration
+Rasmalai Truffle,light,1,3,1,0,229,calm
+Mango Delight,sweet,3,2,1,1,189,excited
+Coffee Mocha Brownie,light,1,1,0,0,249,calm
+Almond Caramel Tart,nutty,2,2,0,1,199,celebration
+Almond Caramel Tart,indian,2,3,0,1,179,celebration
+Pineapple Bliss,light,2,1,0,0,249,calm
+Mango Delight,light,3,2,1,0,249,calm
+Salted Caramel Bite,fruity,1,3,1,1,149,happy
+Coconut Truffle,fruity,2,1,1,0,149,happy
+Almond Caramel Tart,indian,1,2,1,0,199,celebration
+Strawberry Swirl,sweet,1,3,0,0,99,excited
+Coconut Truffle,indian,2,3,0,0,249,celebration
+Strawberry Swirl,indian,2,3,1,0,229,celebration
+Salted Caramel Bite,light,2,1,0,0,189,calm
+Nutella Brownie,light,3,3,0,0,189,calm
+Red Velvet Cupcake,light,3,2,0,0,149,calm
+Almond Caramel Tart,nutty,3,1,1,1,249,celebration
+Pineapple Bliss,chocolate,3,1,1,0,99,comfort
+Chocolate Overload,indian,3,2,0,1,149,celebration
+Rasmalai Truffle,nutty,3,1,0,1,219,celebration
+Coconut Truffle,chocolate,1,3,1,0,219,comfort
+Rasmalai Truffle,sweet,1,3,0,0,189,excited
+Cranberry Blondie,fruity,3,2,1,0,189,happy
+Mango Delight,chocolate,2,2,1,1,229,comfort
+Coffee Mocha Brownie,chocolate,1,1,0,0,229,comfort
+Coffee Mocha Brownie,nutty,1,1,0,1,249,celebration
+Almond Caramel Tart,nutty,1,3,0,1,189,celebration
+Coconut Truffle,sweet,2,3,0,0,199,excited
+Nutella Brownie,sweet,1,3,0,0,229,excited
+Strawberry Swirl,light,1,1,0,0,249,calm
+Almond Caramel Tart,light,2,2,0,0,189,calm
+Mango Delight,sweet,2,2,0,0,199,excited
+Cranberry Blondie,indian,3,3,0,0,249,celebration
+Coconut Truffle,sweet,2,3,1,1,179,excited
+Pineapple Bliss,light,2,1,0,0,189,calm
+Cranberry Blondie,indian,2,3,1,0,149,celebration
+Red Velvet Cupcake,light,1,1,1,1,199,calm
+Red Velvet Cupcake,nutty,2,2,1,1,179,celebration
+Oreo Crunch Cupcake,fruity,3,1,1,0,229,happy
+Blueberry Truffle,chocolate,1,2,0,0,199,comfort
+Rasmalai Truffle,fruity,3,3,1,1,179,happy
+Hazelnut Dream,nutty,3,1,1,1,149,celebration
+Mango Delight,light,2,3,0,1,199,calm
+Strawberry Swirl,fruity,2,3,1,0,179,happy
+Pineapple Bliss,indian,1,2,0,0,199,celebration
+Coconut Truffle,nutty,2,1,1,1,219,celebration
+Chocolate Overload,chocolate,3,2,0,0,229,comfort
+Coffee Mocha Brownie,light,3,2,0,0,219,calm
+Strawberry Swirl,sweet,1,1,1,1,249,excited
+Hazelnut Dream,indian,1,1,0,0,99,celebration
+Nutella Brownie,light,1,2,0,0,229,calm
+Almond Caramel Tart,fruity,2,2,1,0,149,happy
+Coffee Mocha Brownie,light,3,1,1,0,149,calm
+Salted Caramel Bite,chocolate,1,1,0,0,179,comfort
+Mango Delight,fruity,2,2,1,0,199,happy
+Almond Caramel Tart,nutty,2,2,0,1,219,celebration
+Coconut Truffle,sweet,3,1,0,0,249,excited
+Pineapple Bliss,light,2,1,0,1,229,calm
+Red Velvet Cupcake,indian,1,3,0,0,249,celebration
+Pineapple Bliss,indian,3,2,1,0,249,celebration
+Coconut Truffle,indian,3,3,0,0,199,celebration
+Rasmalai Truffle,chocolate,3,1,0,0,149,comfort
+Red Velvet Cupcake,indian,1,1,0,1,219,celebration
+Coffee Mocha Brownie,fruity,1,2,1,0,179,happy
+Almond Caramel Tart,chocolate,2,3,0,0,149,comfort
+Mango Delight,indian,2,1,1,0,229,celebration
+Oreo Crunch Cupcake,light,1,3,0,1,229,calm
+Nutella Brownie,light,1,3,0,0,179,calm
+Coconut Truffle,fruity,1,3,1,0,189,happy
+Oreo Crunch Cupcake,chocolate,3,1,0,0,249,comfort
+Rasmalai Truffle,chocolate,3,3,0,0,149,comfort
+Blueberry Truffle,nutty,1,3,0,1,229,celebration
+Oreo Crunch Cupcake,nutty,2,2,0,1,219,celebration
+Oreo Crunch Cupcake,light,1,2,0,1,149,calm
+Strawberry Swirl,nutty,2,1,1,1,229,celebration
+Rasmalai Truffle,nutty,2,2,1,1,179,celebration
+Red Velvet Cupcake,fruity,1,3,1,1,99,happy
+Blueberry Truffle,nutty,3,2,0,1,189,celebration
+Almond Caramel Tart,indian,1,1,1,1,249,celebration
+Salted Caramel Bite,fruity,2,3,1,0,219,happy
+Chocolate Overload,nutty,1,2,0,1,99,celebration
+Red Velvet Cupcake,fruity,3,1,1,0,179,happy
+Chocolate Overload,indian,3,3,0,0,149,celebration
+Chocolate Overload,chocolate,1,3,0,0,219,comfort
+Chocolate Overload,chocolate,2,2,1,1,249,comfort
+Strawberry Swirl,light,1,3,1,0,149,calm
+Hazelnut Dream,fruity,1,2,1,0,249,happy
+Coconut Truffle,sweet,1,1,1,0,99,excited
+Rasmalai Truffle,indian,3,3,1,0,149,celebration
+Oreo Crunch Cupcake,fruity,3,3,1,0,99,happy
+Rasmalai Truffle,chocolate,2,1,0,0,199,comfort
+Almond Caramel Tart,nutty,3,2,0,1,229,celebration
+Salted Caramel Bite,fruity,1,2,1,0,249,happy
+Pineapple Bliss,indian,1,2,0,0,149,celebration
+Nutella Brownie,fruity,3,3,1,0,229,happy
+Coconut Truffle,sweet,3,3,1,0,149,excited
+Cranberry Blondie,nutty,3,2,0,1,219,celebration
+Hazelnut Dream,light,1,2,0,1,189,calm
+Salted Caramel Bite,sweet,1,3,0,0,179,excited
+Coconut Truffle,fruity,1,1,1,0,189,happy
+Hazelnut Dream,nutty,3,3,0,1,199,celebration
+Pineapple Bliss,light,2,3,0,0,229,calm
+Oreo Crunch Cupcake,nutty,1,2,0,1,99,celebration
+Vanilla Sunshine,light,2,1,1,1,189,calm
+Nutella Brownie,sweet,2,2,0,0,249,excited
+Oreo Crunch Cupcake,nutty,1,1,1,1,249,celebration
+Oreo Crunch Cupcake,light,2,3,0,0,249,calm
+Coffee Mocha Brownie,sweet,3,1,0,1,189,excited
+Chocolate Overload,light,1,3,0,0,189,calm
+Vanilla Sunshine,chocolate,2,3,1,1,219,comfort
+Vanilla Sunshine,fruity,2,3,1,1,149,happy
+Oreo Crunch Cupcake,indian,2,2,1,1,219,celebration
+Rasmalai Truffle,chocolate,1,2,1,1,189,comfort
+Cranberry Blondie,light,2,3,0,0,99,calm
+Chocolate Overload,chocolate,2,3,1,0,179,comfort
+Coconut Truffle,light,3,3,0,0,179,calm
+Coconut Truffle,chocolate,1,1,1,0,99,comfort
+Coffee Mocha Brownie,light,1,1,1,0,149,calm
+Almond Caramel Tart,indian,3,3,1,0,219,celebration
+Almond Caramel Tart,chocolate,3,1,1,0,179,comfort
+Red Velvet Cupcake,fruity,3,3,1,0,249,happy
+Coffee Mocha Brownie,indian,2,3,0,1,179,celebration
+Almond Caramel Tart,nutty,2,1,0,1,149,celebration
+Strawberry Swirl,nutty,2,3,0,1,249,celebration
+Pineapple Bliss,chocolate,3,2,0,1,249,comfort
+Oreo Crunch Cupcake,sweet,2,2,1,0,189,excited
+Oreo Crunch Cupcake,nutty,3,1,0,1,149,celebration
+Oreo Crunch Cupcake,light,2,1,1,0,99,calm
+Cranberry Blondie,fruity,1,2,1,1,189,happy
+Nutella Brownie,fruity,2,1,1,0,229,happy
+Pineapple Bliss,chocolate,1,1,0,1,229,comfort
+Coffee Mocha Brownie,fruity,3,3,1,0,219,happy
+Almond Caramel Tart,fruity,2,2,1,0,149,happy
+Red Velvet Cupcake,sweet,2,3,0,0,219,excited
+Red Velvet Cupcake,chocolate,1,2,1,0,189,comfort
+Vanilla Sunshine,chocolate,2,1,0,0,189,comfort
+Mango Delight,nutty,2,2,1,1,199,celebration
+Red Velvet Cupcake,chocolate,3,3,1,1,219,comfort
+Rasmalai Truffle,fruity,1,1,1,1,99,happy
+Salted Caramel Bite,indian,2,1,1,0,229,celebration
+Strawberry Swirl,indian,1,2,0,1,219,celebration
+Blueberry Truffle,fruity,2,3,1,1,199,happy
+Blueberry Truffle,fruity,2,1,1,0,99,happy
+Vanilla Sunshine,fruity,1,3,1,0,149,happy
+Coconut Truffle,light,1,3,0,0,189,calm
+Cranberry Blondie,light,1,1,1,1,149,calm
+Chocolate Overload,indian,2,1,0,1,189,celebration
+Salted Caramel Bite,fruity,2,2,1,0,179,happy
+Strawberry Swirl,chocolate,3,1,0,0,179,comfort
+Rasmalai Truffle,sweet,3,3,0,0,219,excited
+Red Velvet Cupcake,nutty,1,2,0,1,149,celebration
+Oreo Crunch Cupcake,nutty,2,2,0,1,249,celebration
+Chocolate Overload,sweet,2,3,0,0,199,excited
+Pineapple Bliss,light,2,3,1,1,99,calm
+Almond Caramel Tart,chocolate,3,1,0,0,229,comfort
+Pineapple Bliss,chocolate,2,1,0,0,189,comfort
+Red Velvet Cupcake,nutty,1,2,0,1,189,celebration
+Oreo Crunch Cupcake,indian,1,3,0,0,179,celebration
+Vanilla Sunshine,light,2,3,1,1,179,calm
+Nutella Brownie,nutty,1,1,1,1,179,celebration
+Oreo Crunch Cupcake,fruity,2,3,1,0,219,happy
+Vanilla Sunshine,fruity,1,1,1,0,219,happy
+Coffee Mocha Brownie,fruity,3,3,1,0,179,happy
+Blueberry Truffle,fruity,1,3,1,0,189,happy
+Mango Delight,chocolate,2,1,0,0,179,comfort
+Salted Caramel Bite,sweet,3,3,0,0,189,excited
+Salted Caramel Bite,chocolate,1,2,1,1,219,comfort
+Coffee Mocha Brownie,light,3,3,0,0,189,calm
+Salted Caramel Bite,light,2,1,1,0,199,calm
+Hazelnut Dream,indian,3,1,1,0,99,celebration
+Nutella Brownie,chocolate,2,3,1,0,249,comfort
+Coconut Truffle,nutty,3,3,1,1,229,celebration
+Almond Caramel Tart,chocolate,2,1,1,0,149,comfort
+Strawberry Swirl,chocolate,1,3,1,1,249,comfort
+Pineapple Bliss,indian,3,3,0,0,219,celebration
+Vanilla Sunshine,sweet,2,2,1,0,99,excited
+Salted Caramel Bite,sweet,2,1,0,0,219,excited
+Red Velvet Cupcake,indian,3,1,0,0,189,celebration
+Strawberry Swirl,chocolate,3,2,0,0,149,comfort
+Salted Caramel Bite,fruity,2,2,1,0,99,happy
+Coconut Truffle,fruity,1,2,1,0,149,happy
+Blueberry Truffle,indian,3,2,0,0,99,celebration
+Almond Caramel Tart,nutty,2,2,0,1,179,celebration
+Red Velvet Cupcake,chocolate,2,2,0,0,219,comfort
+Pineapple Bliss,nutty,1,1,0,1,229,celebration
+Almond Caramel Tart,sweet,2,2,1,1,149,excited
+Almond Caramel Tart,nutty,3,1,1,1,199,celebration
+Mango Delight,nutty,2,2,1,1,199,celebration
+Salted Caramel Bite,indian,2,1,1,0,219,celebration
+Rasmalai Truffle,nutty,1,3,0,1,99,celebration
+Mango Delight,sweet,2,2,0,0,149,excited
+Almond Caramel Tart,fruity,1,2,1,0,199,happy
+Chocolate Overload,indian,2,1,1,0,249,celebration
+Cranberry Blondie,fruity,2,3,1,0,189,happy
+Red Velvet Cupcake,indian,3,2,1,1,249,celebration
+Rasmalai Truffle,chocolate,1,3,0,0,99,comfort
+Chocolate Overload,nutty,1,1,1,1,219,celebration
+Nutella Brownie,sweet,2,1,1,0,189,excited
+Coconut Truffle,indian,1,3,0,0,189,celebration
+Oreo Crunch Cupcake,indian,1,1,0,0,229,celebration
+Blueberry Truffle,nutty,3,2,1,1,149,celebration
+Rasmalai Truffle,fruity,1,3,1,0,249,happy
+Pineapple Bliss,light,2,3,0,0,199,calm
+Blueberry Truffle,chocolate,3,2,0,0,99,comfort
+Chocolate Overload,fruity,1,3,1,0,179,happy
+Pineapple Bliss,light,3,3,0,0,189,calm
+Rasmalai Truffle,sweet,2,3,0,0,219,excited
+Red Velvet Cupcake,nutty,1,1,0,1,149,celebration
+Oreo Crunch Cupcake,nutty,2,1,1,1,199,celebration
+Coffee Mocha Brownie,chocolate,1,3,0,0,189,comfort
+Vanilla Sunshine,sweet,2,2,1,1,179,excited
+Vanilla Sunshine,light,2,1,1,0,179,calm
+Rasmalai Truffle,nutty,3,3,0,1,199,celebration
+Oreo Crunch Cupcake,nutty,2,3,0,1,99,celebration
+Oreo Crunch Cupcake,nutty,2,3,0,1,189,celebration
+Red Velvet Cupcake,nutty,1,2,1,1,199,celebration
+Coffee Mocha Brownie,chocolate,1,2,1,1,99,comfort
+Almond Caramel Tart,sweet,2,3,0,0,229,excited
+Nutella Brownie,fruity,1,2,1,0,249,happy
+Strawberry Swirl,sweet,1,2,0,0,179,excited
+Blueberry Truffle,light,2,1,1,1,249,calm
+Nutella Brownie,indian,1,2,0,1,179,celebration
+Hazelnut Dream,fruity,2,1,1,0,149,happy
+Chocolate Overload,fruity,1,2,1,1,229,happy
+Cranberry Blondie,fruity,1,2,1,1,229,happy
+Rasmalai Truffle,chocolate,1,3,0,0,249,comfort
+Mango Delight,light,1,1,1,1,229,calm
+Vanilla Sunshine,light,2,3,1,0,179,calm
+Rasmalai Truffle,light,2,3,0,0,229,calm
+Almond Caramel Tart,fruity,3,1,1,0,149,happy
+Almond Caramel Tart,light,1,3,0,1,219,calm
+Coffee Mocha Brownie,light,1,3,0,0,249,calm
+Mango Delight,nutty,1,1,0,1,189,celebration
+Vanilla Sunshine,fruity,1,1,1,0,179,happy
+Pineapple Bliss,fruity,1,2,1,1,189,happy
+Salted Caramel Bite,nutty,2,1,0,1,249,celebration
+Vanilla Sunshine,fruity,3,1,1,0,99,happy
+Chocolate Overload,sweet,3,3,0,0,99,excited
+Coffee Mocha Brownie,sweet,2,3,0,0,199,excited
+Nutella Brownie,chocolate,2,2,0,0,179,comfort
+Coffee Mocha Brownie,sweet,3,3,0,0,179,excited
+Rasmalai Truffle,indian,3,3,0,1,249,celebration
+Salted Caramel Bite,nutty,1,1,0,1,229,celebration
+Rasmalai Truffle,indian,1,1,0,0,219,celebration
+Strawberry Swirl,nutty,3,2,0,1,179,celebration
+Strawberry Swirl,light,2,1,0,0,249,calm
+Rasmalai Truffle,light,2,3,0,0,149,calm
+Red Velvet Cupcake,chocolate,1,2,1,0,189,comfort
+Cranberry Blondie,fruity,2,1,1,0,249,happy
+Coffee Mocha Brownie,fruity,2,2,1,0,99,happy
+Mango Delight,light,3,2,1,0,149,calm
+Coconut Truffle,light,3,2,0,0,219,calm
+Oreo Crunch Cupcake,light,1,2,0,0,229,calm
+Almond Caramel Tart,light,2,1,0,1,179,calm
+Almond Caramel Tart,chocolate,1,2,0,1,149,comfort
+Hazelnut Dream,nutty,1,3,0,1,199,celebration
+Nutella Brownie,indian,3,3,1,0,189,celebration
+Rasmalai Truffle,nutty,1,1,0,1,199,celebration
+Oreo Crunch Cupcake,sweet,1,3,0,0,99,excited
+Hazelnut Dream,chocolate,2,3,0,0,249,comfort
+Coconut Truffle,indian,3,3,0,1,249,celebration
+Coconut Truffle,light,1,1,0,1,179,calm
+Hazelnut Dream,light,1,2,0,0,99,calm
+Oreo Crunch Cupcake,light,2,2,0,0,189,calm
+Red Velvet Cupcake,fruity,2,1,1,1,229,happy
+Hazelnut Dream,nutty,2,1,0,1,199,celebration
+Mango Delight,light,1,3,0,0,189,calm
+Vanilla Sunshine,sweet,2,2,0,0,229,excited
+Cranberry Blondie,light,2,3,1,1,99,calm
+Pineapple Bliss,light,1,1,0,0,189,calm
+Hazelnut Dream,light,2,2,0,0,249,calm
+Red Velvet Cupcake,light,1,3,0,0,249,calm
+Almond Caramel Tart,light,1,2,0,0,99,calm
+Rasmalai Truffle,nutty,1,1,1,1,179,celebration
+Nutella Brownie,sweet,2,2,1,1,189,excited
+Chocolate Overload,fruity,1,2,1,0,99,happy
+Chocolate Overload,sweet,3,1,0,0,179,excited
+Oreo Crunch Cupcake,fruity,2,1,1,0,179,happy
+Strawberry Swirl,fruity,3,1,1,1,219,happy
+Oreo Crunch Cupcake,nutty,1,3,0,1,249,celebration
+Blueberry Truffle,sweet,2,1,0,0,179,excited
+Strawberry Swirl,light,3,3,0,0,99,calm
+Chocolate Overload,sweet,3,1,1,0,179,excited
+Cranberry Blondie,fruity,3,2,1,0,229,happy
+Coconut Truffle,fruity,2,3,1,0,99,happy
+Chocolate Overload,chocolate,3,2,0,1,219,comfort
+Nutella Brownie,sweet,1,1,0,1,99,excited
+Coffee Mocha Brownie,fruity,2,2,1,1,149,happy
+Salted Caramel Bite,indian,2,2,1,1,229,celebration
+Mango Delight,fruity,2,1,1,0,99,happy
+Red Velvet Cupcake,chocolate,2,2,1,0,99,comfort
+Blueberry Truffle,light,2,1,0,0,219,calm
+Blueberry Truffle,sweet,3,1,0,1,249,excited
+Blueberry Truffle,indian,3,3,1,1,219,celebration
+Coffee Mocha Brownie,sweet,3,3,0,1,219,excited
+Coffee Mocha Brownie,sweet,1,1,0,1,199,excited
+Cranberry Blondie,sweet,3,2,0,0,199,excited
+Rasmalai Truffle,sweet,3,1,0,0,229,excited
+Coconut Truffle,indian,2,2,0,0,99,celebration
+Red Velvet Cupcake,sweet,3,2,1,1,99,excited
+Coffee Mocha Brownie,nutty,3,3,0,1,179,celebration
+Hazelnut Dream,nutty,3,2,1,1,149,celebration
+Chocolate Overload,indian,3,3,0,0,99,celebration
+Pineapple Bliss,sweet,3,2,1,0,189,excited
+Red Velvet Cupcake,sweet,2,2,0,1,99,excited
+Blueberry Truffle,indian,1,3,0,0,189,celebration
+Cranberry Blondie,chocolate,3,1,0,0,189,comfort
+Coffee Mocha Brownie,light,2,3,0,0,99,calm
+Almond Caramel Tart,indian,2,3,0,0,99,celebration
+Red Velvet Cupcake,indian,3,2,0,0,249,celebration
+Rasmalai Truffle,indian,3,2,1,0,99,celebration
+Cranberry Blondie,nutty,3,1,1,1,99,celebration
+Blueberry Truffle,fruity,3,2,1,0,189,happy
+Oreo Crunch Cupcake,chocolate,2,3,0,1,149,comfort
+Almond Caramel Tart,fruity,3,3,1,0,199,happy
+Salted Caramel Bite,light,1,3,0,1,199,calm
+Mango Delight,indian,2,3,0,1,199,celebration
+Hazelnut Dream,light,3,3,1,0,249,calm
+Blueberry Truffle,chocolate,2,1,0,0,229,comfort
+Cranberry Blondie,sweet,2,1,1,0,249,excited
+Strawberry Swirl,nutty,1,2,0,1,199,celebration
+Hazelnut Dream,light,2,3,0,0,149,calm
+Almond Caramel Tart,nutty,1,3,0,1,179,celebration
+Mango Delight,chocolate,2,1,0,0,189,comfort
+Almond Caramel Tart,light,1,1,0,0,229,calm
+Pineapple Bliss,light,2,1,1,1,199,calm
+Strawberry Swirl,indian,3,1,0,1,199,celebration
+Coconut Truffle,chocolate,3,3,1,0,219,comfort
+Blueberry Truffle,chocolate,2,2,0,0,219,comfort
+Almond Caramel Tart,indian,3,3,0,0,249,celebration
+Vanilla Sunshine,chocolate,3,3,0,1,179,comfort
+Hazelnut Dream,nutty,3,3,1,1,179,celebration
+Red Velvet Cupcake,fruity,2,3,1,0,229,happy
+Nutella Brownie,chocolate,1,3,0,1,189,comfort
+Mango Delight,chocolate,1,2,0,1,249,comfort
+Mango Delight,nutty,1,3,0,1,149,celebration
+Rasmalai Truffle,fruity,3,2,1,0,229,happy
+Cranberry Blondie,sweet,2,3,0,1,219,excited
+Chocolate Overload,light,1,3,1,1,149,calm
+Vanilla Sunshine,nutty,1,3,1,1,99,celebration
+Cranberry Blondie,fruity,2,1,1,0,179,happy
+Nutella Brownie,fruity,1,3,1,1,229,happy
+Pineapple Bliss,chocolate,1,1,1,0,99,comfort
+Hazelnut Dream,sweet,3,3,0,1,189,excited
+Nutella Brownie,indian,2,2,1,1,199,celebration
+Chocolate Overload,nutty,3,1,1,1,99,celebration
+Rasmalai Truffle,fruity,3,1,1,1,179,happy
+Cranberry Blondie,chocolate,3,2,1,0,189,comfort
+Strawberry Swirl,nutty,3,3,0,1,189,celebration
+Nutella Brownie,chocolate,1,3,1,0,219,comfort
+Cranberry Blondie,light,1,1,0,0,199,calm
+Oreo Crunch Cupcake,indian,1,2,0,1,179,celebration
+Pineapple Bliss,chocolate,3,2,1,0,99,comfort
+Almond Caramel Tart,chocolate,1,3,0,0,249,comfort
+Salted Caramel Bite,light,1,3,0,0,199,calm
+Vanilla Sunshine,sweet,2,1,1,1,249,excited
+Almond Caramel Tart,sweet,2,3,0,0,219,excited
+Blueberry Truffle,fruity,2,1,1,0,249,happy
+Rasmalai Truffle,chocolate,1,2,1,1,249,comfort
+Strawberry Swirl,sweet,2,1,0,1,149,excited
+Nutella Brownie,chocolate,2,3,0,1,179,comfort
+Oreo Crunch Cupcake,nutty,2,3,0,1,229,celebration
+Rasmalai Truffle,light,3,2,0,0,229,calm
+Nutella Brownie,light,3,3,0,1,99,calm
+Nutella Brownie,fruity,2,2,1,1,189,happy
+Rasmalai Truffle,chocolate,2,3,0,0,249,comfort
+Rasmalai Truffle,light,1,1,0,0,249,calm
+Oreo Crunch Cupcake,light,1,3,0,0,99,calm
+Coffee Mocha Brownie,fruity,1,1,1,0,249,happy
+Coconut Truffle,nutty,1,1,1,1,249,celebration
+Pineapple Bliss,sweet,1,1,0,0,229,excited
+Mango Delight,fruity,2,1,1,1,249,happy
+Vanilla Sunshine,sweet,3,3,0,1,249,excited
+Strawberry Swirl,nutty,2,3,0,1,99,celebration
+Coffee Mocha Brownie,sweet,3,2,0,0,229,excited
+Rasmalai Truffle,chocolate,1,3,0,1,99,comfort
+Coffee Mocha Brownie,indian,1,2,0,0,249,celebration
+Coffee Mocha Brownie,sweet,2,1,1,0,219,excited
+Blueberry Truffle,indian,1,2,0,1,149,celebration
+Rasmalai Truffle,indian,2,1,1,0,219,celebration
+Chocolate Overload,light,1,3,0,0,99,calm
+Salted Caramel Bite,sweet,1,1,0,1,199,excited
+Nutella Brownie,nutty,2,2,0,1,99,celebration
+Pineapple Bliss,sweet,3,2,0,0,229,excited
+Oreo Crunch Cupcake,nutty,1,1,1,1,179,celebration
+Coconut Truffle,indian,3,3,1,0,229,celebration
+Nutella Brownie,nutty,3,2,1,1,99,celebration
+Salted Caramel Bite,fruity,1,2,1,0,219,happy
+Red Velvet Cupcake,sweet,3,1,0,0,149,excited
+Almond Caramel Tart,sweet,3,3,0,1,179,excited
+Coconut Truffle,fruity,3,1,1,0,249,happy
+Coffee Mocha Brownie,fruity,1,1,1,0,189,happy
+Vanilla Sunshine,indian,2,1,0,0,99,celebration
+Rasmalai Truffle,light,3,1,0,0,99,calm
+Hazelnut Dream,fruity,2,3,1,0,249,happy
+Cranberry Blondie,nutty,3,2,1,1,99,celebration
+Cranberry Blondie,sweet,3,1,1,1,199,excited
+Blueberry Truffle,sweet,2,1,0,1,189,excited
+Nutella Brownie,indian,2,2,0,0,249,celebration
+Strawberry Swirl,chocolate,2,3,1,0,99,comfort
+Nutella Brownie,nutty,3,1,1,1,179,celebration
+Blueberry Truffle,chocolate,3,3,0,0,99,comfort
+Cranberry Blondie,sweet,1,2,1,1,99,excited
+Strawberry Swirl,light,2,2,0,1,179,calm
+Salted Caramel Bite,nutty,1,3,0,1,189,celebration
+Almond Caramel Tart,indian,2,2,1,0,189,celebration
+Vanilla Sunshine,indian,1,3,0,0,199,celebration
+Pineapple Bliss,indian,1,1,0,1,149,celebration
+Hazelnut Dream,nutty,2,2,0,1,179,celebration
+Coconut Truffle,chocolate,1,1,1,0,99,comfort
+Nutella Brownie,sweet,1,2,1,1,189,excited
+Coconut Truffle,sweet,1,2,1,0,219,excited
+Vanilla Sunshine,sweet,1,1,0,0,189,excited
+Salted Caramel Bite,indian,3,2,0,0,189,celebration
+Almond Caramel Tart,indian,1,2,1,0,189,celebration
+Coffee Mocha Brownie,chocolate,3,3,1,1,179,comfort
+Chocolate Overload,light,2,1,0,1,189,calm
+Cranberry Blondie,light,2,3,1,0,219,calm
+Almond Caramel Tart,chocolate,1,2,0,1,199,comfort
+Oreo Crunch Cupcake,fruity,3,3,1,0,189,happy
+Mango Delight,nutty,3,1,1,1,229,celebration
+Hazelnut Dream,nutty,3,2,0,1,199,celebration
+Oreo Crunch Cupcake,nutty,1,2,0,1,219,celebration
+Almond Caramel Tart,chocolate,2,1,0,0,189,comfort
+Vanilla Sunshine,light,3,2,0,0,229,calm
+Salted Caramel Bite,sweet,2,1,0,0,99,excited
+Rasmalai Truffle,indian,2,1,0,1,249,celebration
+Mango Delight,sweet,3,2,0,0,199,excited
+Red Velvet Cupcake,chocolate,1,3,1,1,99,comfort
+Chocolate Overload,light,1,2,1,0,249,calm
+Mango Delight,nutty,1,1,0,1,249,celebration
+Nutella Brownie,sweet,1,2,1,1,229,excited
+Rasmalai Truffle,sweet,1,3,0,0,249,excited
+Rasmalai Truffle,chocolate,1,1,1,0,219,comfort
+Chocolate Overload,light,1,1,0,1,189,calm
+Vanilla Sunshine,indian,1,1,0,1,229,celebration
+Oreo Crunch Cupcake,light,1,2,0,0,219,calm
+Salted Caramel Bite,nutty,2,2,0,1,99,celebration
+Cranberry Blondie,sweet,2,3,0,0,189,excited
+Rasmalai Truffle,light,2,2,1,0,219,calm
+Strawberry Swirl,sweet,1,3,0,1,179,excited
+Nutella Brownie,chocolate,2,2,0,0,219,comfort
+Red Velvet Cupcake,chocolate,1,2,1,0,229,comfort
+Almond Caramel Tart,sweet,3,3,0,0,189,excited
+Pineapple Bliss,nutty,2,2,0,1,229,celebration
+Mango Delight,indian,1,1,0,1,189,celebration
+Coffee Mocha Brownie,indian,3,3,0,0,229,celebration
+Oreo Crunch Cupcake,nutty,2,2,1,1,179,celebration
+Vanilla Sunshine,chocolate,2,2,0,0,219,comfort
+Strawberry Swirl,chocolate,2,2,0,0,179,comfort
+Chocolate Overload,sweet,3,3,0,0,199,excited
+Almond Caramel Tart,sweet,2,3,0,0,179,excited
+Almond Caramel Tart,fruity,2,2,1,0,249,happy
+Coffee Mocha Brownie,indian,2,2,0,0,219,celebration
+Almond Caramel Tart,chocolate,2,2,1,0,229,comfort
+Mango Delight,fruity,2,3,1,0,189,happy
+Coconut Truffle,sweet,3,3,1,0,229,excited
+Cranberry Blondie,fruity,2,1,1,0,179,happy
+Chocolate Overload,chocolate,2,1,0,0,229,comfort
+Strawberry Swirl,light,3,3,0,0,189,calm
+Cranberry Blondie,chocolate,3,1,1,0,229,comfort
+Blueberry Truffle,sweet,3,3,0,0,249,excited
+Cranberry Blondie,nutty,1,2,0,1,219,celebration
+Vanilla Sunshine,light,1,3,0,0,199,calm
+Cranberry Blondie,indian,3,3,0,0,179,celebration
+Cranberry Blondie,sweet,1,1,0,0,149,excited
+Nutella Brownie,fruity,3,3,1,1,179,happy
+Mango Delight,fruity,1,2,1,0,189,happy
+Chocolate Overload,indian,1,3,0,0,189,celebration
+Coffee Mocha Brownie,nutty,1,3,0,1,189,celebration
+Oreo Crunch Cupcake,light,1,2,0,1,199,calm
+Cranberry Blondie,light,1,2,0,1,179,calm
+Nutella Brownie,fruity,3,2,1,0,179,happy
+Coffee Mocha Brownie,fruity,2,2,1,0,179,happy
+Strawberry Swirl,nutty,2,3,1,1,149,celebration
+Nutella Brownie,indian,1,3,0,0,179,celebration
+Rasmalai Truffle,sweet,3,3,0,0,189,excited
+Hazelnut Dream,nutty,3,1,0,1,199,celebration
+Red Velvet Cupcake,nutty,2,3,0,1,149,celebration
+Mango Delight,fruity,1,2,1,0,149,happy
+Coffee Mocha Brownie,sweet,3,3,0,0,229,excited
+Vanilla Sunshine,light,2,1,0,1,219,calm
+Cranberry Blondie,nutty,1,1,0,1,249,celebration
+Mango Delight,chocolate,3,2,0,0,199,comfort
+Blueberry Truffle,light,1,3,0,0,219,calm
+Rasmalai Truffle,nutty,3,3,0,1,149,celebration
+Almond Caramel Tart,chocolate,2,1,1,0,189,comfort
+Salted Caramel Bite,chocolate,1,3,1,1,179,comfort
+Coffee Mocha Brownie,light,1,3,1,0,199,calm
+Coffee Mocha Brownie,indian,3,3,1,0,179,celebration
+Vanilla Sunshine,indian,3,1,0,1,149,celebration
+Salted Caramel Bite,light,3,1,0,0,219,calm
+Oreo Crunch Cupcake,nutty,1,2,0,1,189,celebration
+Strawberry Swirl,sweet,1,3,0,1,199,excited
+Hazelnut Dream,nutty,1,2,0,1,179,celebration
+Chocolate Overload,nutty,3,3,0,1,179,celebration
+Blueberry Truffle,indian,2,3,0,0,189,celebration
+Cranberry Blondie,indian,2,2,0,1,229,celebration
+Vanilla Sunshine,sweet,1,2,0,1,249,excited
+Coconut Truffle,fruity,3,2,1,0,219,happy
+Chocolate Overload,nutty,1,2,1,1,229,celebration
+Vanilla Sunshine,indian,2,2,0,0,179,celebration
+Red Velvet Cupcake,chocolate,3,1,1,0,99,comfort
+Coffee Mocha Brownie,indian,1,1,1,1,249,celebration
+Hazelnut Dream,chocolate,1,2,0,0,99,comfort
+Mango Delight,sweet,2,1,1,1,179,excited
+Strawberry Swirl,chocolate,2,3,1,0,179,comfort
+Rasmalai Truffle,light,1,1,1,0,149,calm
+Mango Delight,light,1,1,0,1,249,calm
+Mango Delight,fruity,1,1,1,0,199,happy
+Coconut Truffle,chocolate,1,1,0,0,99,comfort
+Pineapple Bliss,sweet,3,2,0,0,179,excited
+Hazelnut Dream,nutty,1,1,0,1,199,celebration
+Rasmalai Truffle,fruity,1,3,1,0,249,happy
+Mango Delight,indian,1,3,0,0,99,celebration
+Hazelnut Dream,light,2,2,0,0,249,calm
+Red Velvet Cupcake,nutty,3,2,0,1,189,celebration
+Almond Caramel Tart,indian,3,3,0,0,179,celebration
+Rasmalai Truffle,nutty,1,3,1,1,199,celebration
+Oreo Crunch Cupcake,sweet,1,3,0,0,249,excited
+Red Velvet Cupcake,light,1,1,1,0,229,calm
+Blueberry Truffle,nutty,3,1,0,1,99,celebration
+Mango Delight,nutty,3,2,0,1,219,celebration
+Pineapple Bliss,fruity,2,2,1,0,199,happy
+Vanilla Sunshine,fruity,3,1,1,1,189,happy
+Oreo Crunch Cupcake,light,2,3,0,0,149,calm
+Cranberry Blondie,light,3,3,1,0,219,calm
+Coffee Mocha Brownie,indian,2,2,1,0,189,celebration
+Red Velvet Cupcake,sweet,1,2,0,0,99,excited
+Mango Delight,sweet,3,1,1,1,189,excited
+Chocolate Overload,chocolate,1,3,0,0,149,comfort
+Chocolate Overload,nutty,2,2,0,1,229,celebration
+Nutella Brownie,fruity,3,2,1,1,229,happy
+Strawberry Swirl,nutty,1,2,0,1,199,celebration
+Hazelnut Dream,nutty,3,3,0,1,99,celebration
+Oreo Crunch Cupcake,chocolate,2,2,0,0,199,comfort
+Vanilla Sunshine,fruity,3,3,1,0,189,happy
+Vanilla Sunshine,sweet,2,1,0,1,219,excited
+Mango Delight,sweet,1,3,0,0,149,excited
+Hazelnut Dream,light,3,3,0,0,149,calm
+Coconut Truffle,nutty,1,3,0,1,179,celebration
+Salted Caramel Bite,light,2,2,0,0,189,calm
+Chocolate Overload,light,1,2,0,0,99,calm
+Nutella Brownie,indian,2,1,0,0,189,celebration
+Nutella Brownie,light,1,1,1,0,149,calm
+Pineapple Bliss,sweet,3,1,0,0,189,excited
+Hazelnut Dream,sweet,1,1,0,0,219,excited
+Vanilla Sunshine,nutty,2,2,0,1,199,celebration
+Blueberry Truffle,fruity,2,3,1,0,219,happy
+Chocolate Overload,fruity,1,3,1,0,99,happy
+Cranberry Blondie,sweet,1,1,1,1,149,excited
+Salted Caramel Bite,light,1,1,0,1,229,calm
+Blueberry Truffle,nutty,3,2,0,1,219,celebration
+Red Velvet Cupcake,indian,1,2,0,0,179,celebration
+Vanilla Sunshine,nutty,1,2,0,1,149,celebration
+Rasmalai Truffle,sweet,1,3,1,1,199,excited
+Nutella Brownie,nutty,2,3,0,1,199,celebration
+Oreo Crunch Cupcake,light,2,2,0,1,149,calm
+Strawberry Swirl,fruity,1,1,1,0,179,happy
+Blueberry Truffle,indian,1,1,0,1,99,celebration
+Vanilla Sunshine,sweet,2,2,1,0,219,excited
+Almond Caramel Tart,indian,1,1,0,0,179,celebration
+Mango Delight,nutty,3,2,0,1,229,celebration
+Blueberry Truffle,light,1,1,0,0,149,calm
+Salted Caramel Bite,light,1,3,1,1,229,calm
+Cranberry Blondie,fruity,3,3,1,0,199,happy
+Vanilla Sunshine,indian,3,3,0,0,149,celebration
+Blueberry Truffle,fruity,3,3,1,1,149,happy
+Hazelnut Dream,chocolate,2,3,0,0,229,comfort
+Rasmalai Truffle,indian,3,1,0,0,189,celebration
+Hazelnut Dream,indian,3,2,1,0,219,celebration
+Pineapple Bliss,indian,1,3,0,0,99,celebration
+Cranberry Blondie,indian,1,2,0,0,189,celebration
+Almond Caramel Tart,sweet,3,2,0,0,199,excited
+Chocolate Overload,indian,3,3,1,0,189,celebration
+Chocolate Overload,indian,1,2,1,1,219,celebration
+Salted Caramel Bite,fruity,2,1,1,0,179,happy
+Salted Caramel Bite,chocolate,2,2,0,0,179,comfort
+Coffee Mocha Brownie,fruity,2,2,1,0,219,happy
+Blueberry Truffle,nutty,2,3,0,1,99,celebration
+Blueberry Truffle,light,2,3,0,1,249,calm
+Vanilla Sunshine,fruity,2,1,1,0,179,happy
+Vanilla Sunshine,indian,1,3,1,1,179,celebration
+Cranberry Blondie,sweet,2,2,0,1,199,excited
+Vanilla Sunshine,light,2,3,0,0,199,calm
+Mango Delight,nutty,2,1,0,1,99,celebration
+Rasmalai Truffle,indian,2,1,1,0,219,celebration
+Vanilla Sunshine,indian,3,2,0,1,149,celebration
+Hazelnut Dream,chocolate,3,3,1,0,199,comfort
+Coffee Mocha Brownie,nutty,2,3,0,1,179,celebration
+Hazelnut Dream,chocolate,1,3,1,0,189,comfort
+Salted Caramel Bite,chocolate,3,2,1,0,189,comfort
+Nutella Brownie,sweet,2,3,0,0,249,excited
+Pineapple Bliss,fruity,3,2,1,0,219,happy
+Chocolate Overload,sweet,3,2,1,0,229,excited
+Coffee Mocha Brownie,light,3,1,1,1,229,calm
+Pineapple Bliss,sweet,1,2,1,0,149,excited
+Mango Delight,light,2,3,1,0,189,calm
+Nutella Brownie,chocolate,3,1,1,0,249,comfort
+Oreo Crunch Cupcake,sweet,3,2,1,0,99,excited
+Vanilla Sunshine,indian,3,1,0,0,219,celebration
+Salted Caramel Bite,fruity,2,1,1,0,229,happy
+Mango Delight,nutty,3,2,0,1,249,celebration
+Chocolate Overload,nutty,2,3,1,1,189,celebration
+Rasmalai Truffle,light,1,2,0,0,179,calm
+Red Velvet Cupcake,nutty,3,3,0,1,149,celebration
+Almond Caramel Tart,chocolate,1,2,0,1,99,comfort
+Mango Delight,indian,3,2,0,0,199,celebration
+Oreo Crunch Cupcake,nutty,2,2,0,1,149,celebration
+Blueberry Truffle,indian,1,2,0,1,249,celebration
+Coffee Mocha Brownie,light,1,3,1,0,229,calm
+Chocolate Overload,nutty,1,3,1,1,219,celebration
+Rasmalai Truffle,light,1,3,1,0,179,calm
+Nutella Brownie,light,3,2,1,0,179,calm
+Almond Caramel Tart,sweet,1,2,0,1,149,excited
+Pineapple Bliss,light,1,2,1,0,229,calm
+Salted Caramel Bite,indian,1,2,1,0,189,celebration
+Salted Caramel Bite,chocolate,2,1,0,0,199,comfort
+Coffee Mocha Brownie,nutty,2,2,1,1,229,celebration
+Salted Caramel Bite,nutty,3,1,1,1,219,celebration
+Hazelnut Dream,fruity,1,3,1,0,229,happy
+Rasmalai Truffle,chocolate,2,1,0,0,229,comfort
+Coconut Truffle,fruity,1,1,1,0,219,happy
+Rasmalai Truffle,fruity,3,3,1,0,229,happy
+Blueberry Truffle,chocolate,2,3,0,1,199,comfort
+Coffee Mocha Brownie,indian,1,2,0,0,249,celebration
+Strawberry Swirl,nutty,1,2,1,1,249,celebration
+Cranberry Blondie,chocolate,1,3,0,1,219,comfort
+Mango Delight,light,3,3,0,0,219,calm
+Cranberry Blondie,light,2,2,0,1,249,calm
+Rasmalai Truffle,indian,1,2,1,0,249,celebration
+Red Velvet Cupcake,indian,3,1,1,0,179,celebration
+Cranberry Blondie,fruity,3,3,1,0,189,happy
+Hazelnut Dream,sweet,1,1,0,0,219,excited
+Salted Caramel Bite,indian,3,3,0,0,179,celebration
+Oreo Crunch Cupcake,indian,3,3,0,1,149,celebration
+Rasmalai Truffle,nutty,2,3,1,1,249,celebration
+Rasmalai Truffle,chocolate,2,2,0,0,229,comfort
+Salted Caramel Bite,nutty,1,3,1,1,189,celebration
+Oreo Crunch Cupcake,fruity,1,1,1,1,219,happy
+Coconut Truffle,sweet,1,3,1,0,249,excited
+Salted Caramel Bite,indian,2,3,0,0,249,celebration
+Coffee Mocha Brownie,indian,1,1,0,0,179,celebration
+Coffee Mocha Brownie,sweet,2,1,0,1,99,excited
+Oreo Crunch Cupcake,chocolate,1,1,0,0,189,comfort
+Oreo Crunch Cupcake,fruity,3,2,1,0,249,happy
+Cranberry Blondie,fruity,2,1,1,1,249,happy
+Strawberry Swirl,indian,2,1,0,0,229,celebration
+Hazelnut Dream,light,2,2,0,0,99,calm
+Pineapple Bliss,fruity,3,3,1,0,249,happy
+Pineapple Bliss,sweet,1,1,0,0,99,excited
+Almond Caramel Tart,sweet,2,2,0,0,219,excited
+Oreo Crunch Cupcake,indian,2,2,1,0,249,celebration
+Rasmalai Truffle,sweet,1,2,0,1,149,excited
+Almond Caramel Tart,light,1,1,1,1,199,calm
+Nutella Brownie,indian,1,1,0,0,179,celebration
+Hazelnut Dream,nutty,3,2,1,1,199,celebration
+Oreo Crunch Cupcake,chocolate,2,3,0,0,199,comfort
+Chocolate Overload,indian,1,3,1,0,219,celebration
+Salted Caramel Bite,light,3,1,1,0,219,calm
+Blueberry Truffle,chocolate,3,3,0,0,99,comfort
+Mango Delight,fruity,2,3,1,0,249,happy
+Oreo Crunch Cupcake,nutty,3,2,0,1,229,celebration
+Cranberry Blondie,fruity,3,1,1,0,179,happy
+Blueberry Truffle,light,1,3,0,0,219,calm
+Strawberry Swirl,chocolate,1,2,0,1,99,comfort
+Cranberry Blondie,chocolate,2,3,0,0,189,comfort
+Pineapple Bliss,nutty,2,3,0,1,179,celebration
+Cranberry Blondie,light,3,3,1,0,229,calm
+Coconut Truffle,indian,1,1,1,0,199,celebration
+Hazelnut Dream,chocolate,3,3,1,0,219,comfort
+Red Velvet Cupcake,light,3,2,0,0,149,calm
+Mango Delight,fruity,1,2,1,0,219,happy
+Coffee Mocha Brownie,indian,3,3,0,0,219,celebration
+Coffee Mocha Brownie,nutty,2,1,0,1,249,celebration
+Mango Delight,nutty,3,3,0,1,189,celebration
+Rasmalai Truffle,sweet,3,3,1,0,99,excited
+Mango Delight,nutty,1,1,1,1,99,celebration
+Nutella Brownie,fruity,2,2,1,1,99,happy
+Rasmalai Truffle,nutty,1,3,0,1,149,celebration
+Vanilla Sunshine,indian,2,3,1,0,229,celebration
+Strawberry Swirl,sweet,3,3,0,0,249,excited
+Rasmalai Truffle,fruity,1,1,1,0,149,happy
+Vanilla Sunshine,chocolate,2,3,1,0,219,comfort
+Vanilla Sunshine,indian,3,3,1,0,189,celebration
+Chocolate Overload,light,3,1,0,0,219,calm
+Almond Caramel Tart,fruity,2,3,1,1,179,happy
+Hazelnut Dream,light,2,2,1,1,199,calm
+Pineapple Bliss,light,2,3,1,1,249,calm
+Oreo Crunch Cupcake,chocolate,3,2,0,1,219,comfort
+Rasmalai Truffle,nutty,3,3,1,1,149,celebration
+Nutella Brownie,chocolate,1,1,1,0,149,comfort
+Coconut Truffle,nutty,3,2,0,1,149,celebration
+Mango Delight,light,2,1,1,0,249,calm
+Vanilla Sunshine,fruity,3,1,1,1,219,happy
+Hazelnut Dream,nutty,2,3,1,1,99,celebration
+Nutella Brownie,fruity,1,2,1,0,199,happy
+Cranberry Blondie,sweet,3,2,0,0,249,excited
+Chocolate Overload,nutty,1,1,0,1,219,celebration
+Oreo Crunch Cupcake,nutty,3,1,0,1,249,celebration
+Pineapple Bliss,light,1,1,0,0,229,calm
+Nutella Brownie,sweet,1,1,0,0,149,excited
+Chocolate Overload,nutty,2,1,0,1,219,celebration
+Vanilla Sunshine,fruity,1,2,1,0,189,happy
+Salted Caramel Bite,fruity,3,3,1,0,149,happy
+Vanilla Sunshine,nutty,1,3,0,1,189,celebration
+Hazelnut Dream,sweet,2,2,1,0,149,excited
+Vanilla Sunshine,fruity,1,2,1,0,249,happy
+Vanilla Sunshine,indian,1,2,0,1,149,celebration
+Hazelnut Dream,chocolate,3,1,0,1,229,comfort
+Cranberry Blondie,nutty,1,2,0,1,179,celebration
+Nutella Brownie,light,3,3,0,0,189,calm
+Strawberry Swirl,nutty,1,1,0,1,99,celebration
+Hazelnut Dream,light,1,1,0,1,199,calm
+Oreo Crunch Cupcake,indian,2,1,0,0,229,celebration
+Rasmalai Truffle,fruity,1,3,1,0,219,happy
+Pineapple Bliss,nutty,2,1,0,1,249,celebration
+Salted Caramel Bite,nutty,3,2,1,1,189,celebration
+Pineapple Bliss,chocolate,3,3,0,0,219,comfort
+Chocolate Overload,chocolate,3,1,0,0,149,comfort
+Pineapple Bliss,chocolate,2,2,1,0,219,comfort
+Strawberry Swirl,chocolate,2,2,1,0,189,comfort
+Blueberry Truffle,nutty,2,1,1,1,179,celebration
+Hazelnut Dream,indian,2,3,0,0,189,celebration
+Oreo Crunch Cupcake,chocolate,1,1,0,1,229,comfort
+Pineapple Bliss,light,1,2,0,1,199,calm
+Almond Caramel Tart,light,1,1,0,1,189,calm
+Chocolate Overload,chocolate,3,2,0,0,229,comfort
+Mango Delight,light,3,1,0,0,249,calm
+Hazelnut Dream,nutty,3,1,0,1,199,celebration
+Cranberry Blondie,indian,2,1,0,0,99,celebration
+Hazelnut Dream,fruity,2,3,1,0,99,happy
+Coconut Truffle,light,3,3,0,0,249,calm
+Rasmalai Truffle,nutty,3,3,1,1,99,celebration
+Salted Caramel Bite,sweet,1,1,0,0,189,excited
+Strawberry Swirl,chocolate,1,2,0,0,99,comfort
+Mango Delight,indian,3,2,0,0,149,celebration
+Coconut Truffle,fruity,3,2,1,0,229,happy
+Cranberry Blondie,light,1,3,0,0,189,calm
+Mango Delight,nutty,3,1,0,1,179,celebration
+Chocolate Overload,chocolate,1,1,1,1,219,comfort
+Hazelnut Dream,nutty,1,3,0,1,219,celebration
+Coconut Truffle,sweet,3,2,0,1,249,excited
+Cranberry Blondie,chocolate,3,3,0,0,189,comfort
+Rasmalai Truffle,indian,1,2,0,0,189,celebration
+Oreo Crunch Cupcake,fruity,3,1,1,0,219,happy
+Coffee Mocha Brownie,light,1,1,1,0,219,calm
+Coconut Truffle,chocolate,2,2,0,0,149,comfort
+Salted Caramel Bite,chocolate,2,2,0,0,149,comfort
+Strawberry Swirl,sweet,3,2,0,1,199,excited
+Coffee Mocha Brownie,nutty,2,1,0,1,99,celebration
+Coffee Mocha Brownie,light,1,2,0,0,249,calm
+Pineapple Bliss,sweet,2,2,0,0,199,excited
+Vanilla Sunshine,nutty,2,2,0,1,249,celebration
+Hazelnut Dream,light,3,2,0,1,229,calm
+Mango Delight,chocolate,1,1,0,0,199,comfort
+Strawberry Swirl,sweet,3,3,0,0,229,excited
+Nutella Brownie,fruity,1,3,1,0,199,happy
+Oreo Crunch Cupcake,light,2,1,0,0,149,calm
+Oreo Crunch Cupcake,nutty,2,2,1,1,229,celebration
+Coconut Truffle,fruity,2,1,1,1,219,happy
+Coconut Truffle,nutty,1,2,0,1,179,celebration
+Coffee Mocha Brownie,fruity,1,1,1,0,229,happy
+Pineapple Bliss,sweet,2,3,1,1,189,excited
+Coffee Mocha Brownie,nutty,1,2,1,1,189,celebration
+Mango Delight,fruity,2,1,1,1,149,happy
+Coconut Truffle,nutty,2,3,1,1,229,celebration
+Cranberry Blondie,fruity,3,3,1,0,149,happy
+Cranberry Blondie,chocolate,3,3,0,1,249,comfort
+Blueberry Truffle,sweet,3,3,0,1,229,excited
+Cranberry Blondie,chocolate,2,2,0,0,219,comfort
+Oreo Crunch Cupcake,indian,3,3,1,0,149,celebration
+Coconut Truffle,sweet,1,1,1,0,229,excited
+Mango Delight,indian,2,2,0,0,149,celebration
+Mango Delight,indian,1,1,0,1,249,celebration
+Chocolate Overload,nutty,3,2,1,1,229,celebration
+Cranberry Blondie,sweet,2,1,1,0,149,excited
+Salted Caramel Bite,fruity,2,1,1,0,249,happy
+Coffee Mocha Brownie,chocolate,3,3,0,1,179,comfort
+Rasmalai Truffle,fruity,1,1,1,0,189,happy
+Coconut Truffle,chocolate,2,2,0,0,189,comfort
+Oreo Crunch Cupcake,light,1,1,0,0,99,calm
+Hazelnut Dream,sweet,3,2,0,0,99,excited
+Oreo Crunch Cupcake,indian,1,3,0,0,249,celebration
+Salted Caramel Bite,sweet,1,2,1,0,199,excited
